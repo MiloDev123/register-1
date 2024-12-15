@@ -1,0 +1,17 @@
+{
+  "description": "NO ARTISTS website - Website nohello.net-like for people that get a lot of artist comissions scams in Discord.",
+
+  "domain": "is-local.org",
+  "subdomain": "noartists",
+
+  "owner": {
+    "repo": "https://github.com/MiloDev123/register-1",
+    "email": "milo@milosantos.com"
+  },
+
+  "record": {
+    "NS": ["ns1.infinityfree.com", "ns2.infinityfree.com"]
+  },
+
+  "proxied": false
+}
